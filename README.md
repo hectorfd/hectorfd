@@ -2,16 +2,17 @@
 <p align="center">
   <a href="https://github.com/hectorfd"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bienvenido..&hearts;++;Soy+estudiante+de+Ing.+de+Sistemas+de+la;Universidad+Tecnológica+de+los+Andes,;Desarrollador+Full+Stack+Junior..😊"></a>
 </p>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDV3MzA2cWpqbXJtdjkybWcxNGZudTgyMTVqb2djeW5rc2p2cGtmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3otOKo070l4jaNcBKo/giphy.gif" align="right" width="370"><br><br>
 <br>
-<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Acerca de mi
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Acerca de mi
 <br>
 <ul>
   <li>Desarrollador Front-end y Back-end autodidacta y apasionado</li>
   <li>Actualmente aprendiendo Desarrollo Web</li>
 </ul>
 <br><br>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDFrbWVhc2Vsc2llOXcxZzJmejJhN2ltcnBkbTExNWtsdGJmaTc2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"><br><br>
+
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 <p align="center">
 <h3 align="left">Lenguajes y Herramientas:</h3>

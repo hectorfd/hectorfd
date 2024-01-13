@@ -2,9 +2,8 @@
 <p align="center">
   <a href="https://github.com/hectorfd"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bienvenido..&hearts;++;Soy+estudiante+de+Ing.+de+Sistemas+de+la;Universidad+Tecnológica+de+los+Andes,;Desarrollador+Full+Stack+Junior..😊"></a>
 </p>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDV3MzA2cWpqbXJtdjkybWcxNGZudTgyMTVqb2djeW5rc2p2cGtmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3otOKo070l4jaNcBKo/giphy.gif" align="right" width="370"><br><br>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzI4NnpwdWZmemIzbmwzend1YXJiZnUxajdvcGx4ODkwMDE5MGd6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TAiOMSf1o7lB54vo2A/giphy.gif" align="right" width="370"><br><br>
 <br>
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Acerca de mi
 <br>
 <ul>

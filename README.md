@@ -4,7 +4,7 @@
 </p>
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzI4NnpwdWZmemIzbmwzend1YXJiZnUxajdvcGx4ODkwMDE5MGd6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TAiOMSf1o7lB54vo2A/giphy.gif" align="right" width="370"><br><br>
 <br>
-<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Acerca de mi
+<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px align="left" ></picture> <h3>Acerca de mi</h3>
 <br>
 <ul>
   <li>Desarrollador Front-end y Back-end autodidacta y apasionado</li>

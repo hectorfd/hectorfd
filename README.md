@@ -7,7 +7,7 @@
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px align="left" ></picture> <h3>Acerca de mi</h3>
 <br>
 <ul>
-  <li>Desarrollador Front-end y Back-end, autodidacta y apasionado</li>
+  <li>Desarrollador Front-end, Back-end, autodidacta y apasionado</li>
   <li>Actualmente aprendiendo Desarrollo Web</li>
 </ul>
 <br><br>

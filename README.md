@@ -8,7 +8,7 @@
 <br>
 <ul>
   <li>Desarrollador Front-end, Back-end, autodidacta y apasionado</li>
-  <li>Actualmente aprendiendo Desarrollo Web</li>
+  <li>Actualmente aprendiendo Ciencia de Datos</li>
 </ul>
 <br><br>
 
